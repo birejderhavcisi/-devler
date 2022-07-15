@@ -1,1 +1,1 @@
-# frontend-101-kodluyoruz
+# Kodluyoruz.com ile ilk web sitemi tasarladım
