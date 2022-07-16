@@ -1,1 +1,1 @@
-# Kodluyoruz.com ile ilk web sitemi tasarladım
+# patika.dev ile front-end 101 eğitimi
