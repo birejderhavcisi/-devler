@@ -1,0 +1,44 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.baslik {
+    color: crimson;
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+    font-size: large;
+}
+
+.links {
+    display: inline;
+    padding: 5px;
+}
+
+.alt-baslik {
+    color: blueviolet;
+    text-align: center;
+}
+
+.icerik {
+    text-align: center;
+}
+
+a {
+    color: blueviolet
+}
+
+.alt-baslik-2 {
+    color: yellowgreen;
+    text-align: center;
+}
+.bulunanlar-list {
+    text-align: center;
+    list-style-type: none;
+}
+.ürün-list {
+    text-align: center;
+    list-style-type: none;
+}
