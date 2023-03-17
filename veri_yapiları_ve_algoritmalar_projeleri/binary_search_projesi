@@ -1,0 +1,21 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+7 kök olarak alınır.
+7'nin solunda 5 yer alır.
+5'in solunda 1 yer alır.
+7'nin sağında 8 yer alır.
+1'in sağında 3 yer alır.
+5'in sağında 6 yer alır.
+1'in solunda 0 yer alır.
+8'in sağında 9 yer alır.
+3'ün sağında 4, solunda 2 yer alır.
+
+                     7
+                   /   \
+                  5     8
+                 / \     \
+                1   6     9
+               / \
+              0   3
+                 / \
+                2   4
